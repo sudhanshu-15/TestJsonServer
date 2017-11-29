@@ -1,0 +1,33 @@
+{
+    "interviews" : [
+        {
+            "interviewId" : "1234",
+            "dueDate" : "2017-11-30",
+            "dateSent" : "2017-11-25",
+            "status" : "pending"
+        },
+        {
+            "interviewId" : "1235",
+            "dueDate" : "2017-12-01",
+            "dateSent" : "2017-11-27",
+            "status" : "pending"
+        }
+    ],
+    "surveys" : [
+        {
+            "surveyId" : "1234",
+            "dueDate" : "2017-12-01",
+            "dateSent" : "2017-11-27",
+            "status" : "pending",
+            "surveyLink" : "https://iu.co1.qualtrics.com/jfe/form/SV_2aGS36hpfo6XfeJ"
+        },
+        {
+            "surveyId" : "1235",
+            "dueDate" : "2017-11-30",
+            "dateSent" : "2017-11-25",
+            "status" : "pending",
+            "surveyLink" : "https://iu.co1.qualtrics.com/jfe/form/SV_2aGS36hpfo6XfeJ"
+        }
+    ],
+    "interviewLink" : "https://iu.zoom.us/j/783861992"
+}
